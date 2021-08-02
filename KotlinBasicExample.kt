@@ -18,4 +18,5 @@ fun main() {
     printMessageWithPrefix("Hello")                                     // 7
     printMessageWithPrefix(prefix = "Log", message = "Hello")           // 8
     println(sum(1, 2))                                                  // 9
+    Aasdasdasd
 }
