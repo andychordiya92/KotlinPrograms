@@ -18,9 +18,4 @@ fun main() {
     printMessageWithPrefix("Hello")                                     // 7
     printMessageWithPrefix(prefix = "Log", message = "Hello")           // 8
     println(sum(1, 2))                                                  // 9
-    //Do code changes here
-    println("Testing 1")   
-    println("Local changes 1")  
-    println("Test")
-    println("New changes in remote")
 }
