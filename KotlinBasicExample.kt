@@ -21,4 +21,6 @@ fun main() {
     //Do code changes here
    println("Testing 1")   
 println("Local changes 1")  
+    println("Test")
+    println("New changes in remote")
 }
