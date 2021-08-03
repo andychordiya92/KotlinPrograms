@@ -19,4 +19,5 @@ fun main() {
     printMessageWithPrefix(prefix = "Log", message = "Hello")           // 8
     println(sum(1, 2))                                                  // 9
     //Do code changes here
+    println("Test")
 }
